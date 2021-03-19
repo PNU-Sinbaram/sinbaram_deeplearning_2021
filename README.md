@@ -1,8 +1,8 @@
 # Sinbaram DeepLearning Study 2021
 ![LOGO](logo.png)
 
-신바람 알고리즘 스터디에서 문제를 풀고 코드를 업로드 하는 저장소입니다!
-다같이 코드를 리뷰해서 서로 이슈를 남기며 발전할 수 있도록 스터디가 끝나면 코드들을 꼭 업로드해주세요!
+신바람 딥러닝 스터디에서 각자 Andrew Ng 교수님의 강의를 보고 파이썬 코드 실습 세션을 따라해보고 
+그 코드를 업로그하기 위한 레포지터리입니다.
 
 ## How to upload your codes
 Git 사용이 익숙치 않은 분들을 위해 여러분들의 코드를 저장소에 업로드하는 방법을 알려드리겠습니다.
@@ -45,3 +45,6 @@ git push origin main
 
 ## Members
 * [신지홍](https://github.com/snowapril)
+* [이종목](https://github.com/hyunyunV)
+* [윤우섭](https://github.com/lijm1358)
+* [홍명신](https://github.com/MyeongsinHong)
