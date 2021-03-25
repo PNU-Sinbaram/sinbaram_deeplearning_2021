@@ -18,7 +18,7 @@ git config --global user.email "이메일"
 
 CMD를 켜서 원하는 directory에 이동 후, 아래 명령어를 입력해주세요.
 ```bash
-git clone https://github.com/snowapril/sinbaram_deeplearning_2021
+git clone https://github.com/snowapril/sinbaram_deeplearning_2021 --recursive
 ```
 
 clone 한 신바람 알고리즘 저장소 폴더를 가지고 되도록 다른 사람 코드는 건들지 않고 
