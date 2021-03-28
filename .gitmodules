@@ -1,5 +1,0 @@
-[submodule ".\\DeepLearningAI\\coursera-deep-learning-specialization"]
-	path = .\\DeepLearningAI\\coursera-deep-learning-specialization
-	url = https://github.com/amanchadha/coursera-deep-learning-specialization
-[submodule "DeepLearningAI/coursera-deep-learning-specialization"]
-	url = https://github.com/amanchadha/coursera-deep-learning-specialization
